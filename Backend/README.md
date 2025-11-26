@@ -63,10 +63,11 @@ npm run dev
 Tampilan login admin
 <img width="1460" height="761" alt="Screenshot 2025-11-26 at 20 11 16" src="https://github.com/user-attachments/assets/21425306-3156-4072-8be7-ea177b75a95a" />
 
+Tampilan login user
+<img width="1453" height="762" alt="Screenshot 2025-11-26 at 20 22 31" src="https://github.com/user-attachments/assets/47471113-6cba-4434-9ac7-8396badc31b9" />
+
 
 <img width="1460" height="761" alt="Screenshot 2025-11-26 at 20 20 57" src="https://github.com/user-attachments/assets/fe244435-ace1-41bc-966f-5240b73d3b94" />
 
-
-<img width="1453" height="762" alt="Screenshot 2025-11-26 at 20 22 31" src="https://github.com/user-attachments/assets/47471113-6cba-4434-9ac7-8396badc31b9" />
 
 
