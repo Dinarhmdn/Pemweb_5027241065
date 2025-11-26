@@ -60,7 +60,8 @@ npm run dev
 
 # Tampilan Web
 
-<img width="1470" height="956" alt="Screenshot 2025-11-26 at 20 12 28" src="https://github.com/user-attachments/assets/4a2b425b-efb8-405e-a023-b8fc89e5af66" />
+Tampilan login admin
+<img width="1460" height="761" alt="Screenshot 2025-11-26 at 20 11 16" src="https://github.com/user-attachments/assets/21425306-3156-4072-8be7-ea177b75a95a" />
 
 
 <img width="1460" height="761" alt="Screenshot 2025-11-26 at 20 20 57" src="https://github.com/user-attachments/assets/fe244435-ace1-41bc-966f-5240b73d3b94" />
